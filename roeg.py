@@ -94,4 +94,16 @@ def roof(alex):
 def background(wn):
     wn.bgcolor("blue")
 
-def main():
+def main(pixie, alex, wn):
+
+    background(wn)
+
+    window_1(pixie)
+
+    window_2(pixie)
+
+    base(alex)
+
+    roof(alex)
+
+    pass
