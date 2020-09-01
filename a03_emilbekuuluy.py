@@ -1,6 +1,7 @@
 ######################################################################
 # Author: Yryskeldi Emilbek uulu
 # Username: emilbekuuluy
+# Link to the Google Doc: https://docs.google.com/document/d/1hkLhaA0nLIpu2IKiDw4HwQ6YLq5a5OwvIiA6apBUR5Q/edit?usp=sharing
 #
 # Assignment: A03: Fully Functional Gitty Psychedelic Robotc Turtles
 # Purpose: To continue practicing creating and using functions, more practice on using the turtle library,
