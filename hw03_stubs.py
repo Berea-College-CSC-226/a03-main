@@ -3,7 +3,7 @@
 #        hw03_username.py and copy this code into it!
 
 #################################################################################
-# Author:
+# Author: Nicholas Hamilton
 # Username:
 #
 # Assignment:
@@ -18,7 +18,7 @@
 
 import turtle
 
-
+# to demonstrate the git process
 def function_1():
     """
     Example docstring for function_1. function_1 is not a good function name and should be changed.
