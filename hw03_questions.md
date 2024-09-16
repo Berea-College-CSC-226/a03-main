@@ -15,21 +15,22 @@ with your answer to the question above.
      What are the R, G, and B values?
 
 ```
-    Replace this text with your answer
+    R: 179, G: 0, B: 225
 ```
 
 1.b. Using the [RGB Color Wheel tool](https://colorspire.com/rgb-color-wheel/), create the color brown. 
      What are the R, G, and B values? 
 
 ```
-    Replace this text with your answer
+    R: 121, G: 85, B: 3
 ```
 
 1.c. Using the [RGB Color Wheel tool](https://colorspire.com/rgb-color-wheel/), create the color xanadu. 
      What are the R, G, and B values?
 
 ```
-    Replace this text with your answer
+    I had to look up a reference for this and try to recreate this in the color wheel.
+    R: 108, G: 131, B: 121
 ```
 
 ---
@@ -41,32 +42,48 @@ with your answer to the question above.
      besides the `turtle.forward()` command you are used to using?
 
 ```
-    Replace this text with your answer
+    There are two main pathways (and yes, I purposefully didn't use the word 'methods').
+    You can use teleport() or goto(), which do essentially the same thing,
+    except in teleport(), it simply instantly relocates, while in goto(), the turtle
+    actually travels. These are likely the answers the question was looking for.
+    
+    You can (technically) also use backward() and input a negative number, but that
+    is needlessly confusing and bad form unless it serves some niche, specific purpose.
+    For example, maybe the user inputs the number and you didn't bother checking
+    to make sure it was positive to prove a point.
 ```
 
 2.b. What command from the turtle library can be used to print the turtle's current 
    location?
    
 ```
-    Replace this text with your answer
+    position()
 ```
 
 2.c. How do you set the turtle's speed to maximum speed?
    
 ```
-    Replace this text with your answer
+    turtle.speed(0)
 ```
 
 2.d. How would you change the turtle's color to xanadu? 
 
 ```
-    Replace this text with your answer
+    colormode(225)
+    turtle.pencolor('6c8379')
 ```
 
 2.e. How would you fill a shape with the color xanadu?
 
 ```
-    Replace this text with your answer
+    You must really like either the color or the color's name.
+    
+    colormode(225)
+    turtle.fillcolor('6c8379')
+    turtle.begin_fill()
+    [draw shape]
+    turtle.end_fill()
+    
 ```
 
 ---
@@ -76,28 +93,32 @@ with your answer to the question above.
 3.a. What does **cloning** the repo mean?
 
 ```
-    Replace this text with your answer
+    Cloning is when you make a copy of the files in a Github repository
+    on your computer so you can do work on them without running afoul
+    of someone else's work.
 ```
 
 
 - What is the **repository**? Where does it exist (on your local machine or in Github)?
 
 ```
-    Replace this text with your answer
+    It's like a bin of files that act as the 'original'. It's in Github.
 ```
 
 
 - What is a **commit**? Why does it need a commit message?
 
 ```
-    Replace this text with your answer
+    It's like when you use a save spot in a game. Here, you commit and you
+    add a message so you can easily tell 'where you saved', per se.
 ```
 
 
 - What does it mean to **push** your code? Where is your code being pushed _to_ and _from_?
 
 ```
-    Replace this text with your answer
+    Pushing saves what you've done onto the version of that file in Github.
+    You push from your computer to the Github repository.
 ```
 
 ---
@@ -109,21 +130,24 @@ with your answer to the question above.
 4.a. Why do you think it is important to pull before you push?
 
 ```
-    Replace this text with your answer
+    In short, to prevent messy merge conflicts.
 ```
 
 4.b. How many branches are in the repository?
      Click the link to look at the branches. Do you see yours? Do you see any others? 
 
 ```
-    Replace this text with your answer
+    119 branches. I do see mine, I do see a lot of other branches,
+    including some you pointed out in class.
 ```
 
 
 4.c. Compare your branch and the master branch by clicking on each. Are they different?
 
 ```
-    Replace this text with your answer
+    They seem to be the same in Github right now, except that the master has a heading
+    at the top of one of the sections saying there's been a bunch of edits.
+    
 ```
 
 
