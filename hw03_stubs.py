@@ -3,12 +3,12 @@
 # TODO Instead, create a new file called hw03_username.py and copy this code into it!
 
 #################################################################################
-# Author:
-# Username:
+# Author: Aliaksandr Melnichenka
+# Username: melnichenkaa
 #
 # Assignment:
 # Purpose:
-# Google Doc Link:
+# Google Doc Link: https://docs.google.com/document/d/1SS2cktYFybPYRGyeDuiIRQVh62Jtxf-0xMK6qmmmdfg/edit?usp=sharing
 #
 #################################################################################
 # Acknowledgements:
