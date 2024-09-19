@@ -15,21 +15,21 @@ with your answer to the question above.
      What are the R, G, and B values?
 
 ```
-    Replace this text with your answer
+    160,0,160
 ```
 
 1.b. Using the [RGB Color Wheel tool](https://colorspire.com/rgb-color-wheel/), create the color brown. 
      What are the R, G, and B values? 
 
 ```
-    Replace this text with your answer
+    140,65,15
 ```
 
 1.c. Using the [RGB Color Wheel tool](https://colorspire.com/rgb-color-wheel/), create the color xanadu. 
      What are the R, G, and B values?
 
 ```
-    Replace this text with your answer
+    115,135,120
 ```
 
 ---
@@ -41,32 +41,32 @@ with your answer to the question above.
      besides the `turtle.forward()` command you are used to using?
 
 ```
-    Replace this text with your answer
+    turtle.fd()
 ```
 
 2.b. What command from the turtle library can be used to print the turtle's current 
    location?
    
 ```
-    Replace this text with your answer
+    turtle.position()
 ```
 
 2.c. How do you set the turtle's speed to maximum speed?
    
 ```
-    Replace this text with your answer
+    turtle.speed('fastest')
 ```
 
 2.d. How would you change the turtle's color to xanadu? 
 
 ```
-    Replace this text with your answer
+    turtle.pencolor((115.0, 135.0, 120.0))
 ```
 
 2.e. How would you fill a shape with the color xanadu?
 
 ```
-    Replace this text with your answer
+    turtle.fillcolor((115.0, 135.0, 120.0)) 
 ```
 
 ---
@@ -76,28 +76,28 @@ with your answer to the question above.
 3.a. What does **cloning** the repo mean?
 
 ```
-    Replace this text with your answer
+    Taking the same document and placing it in a local/unshared area
 ```
 
 
 - What is the **repository**? Where does it exist (on your local machine or in Github)?
 
 ```
-    Replace this text with your answer
+    The repository exists in Github
 ```
 
 
 - What is a **commit**? Why does it need a commit message?
 
 ```
-    Replace this text with your answer
+    Commit is saving the most recent progress outside of the local device. A useful message informs what changes were made and why they are important.
 ```
 
 
 - What does it mean to **push** your code? Where is your code being pushed _to_ and _from_?
 
 ```
-    Replace this text with your answer
+    The code is being shown to others in the repository and requesting to be added to the master branch. It sends it to Github.
 ```
 
 ---
@@ -109,21 +109,21 @@ with your answer to the question above.
 4.a. Why do you think it is important to pull before you push?
 
 ```
-    Replace this text with your answer
+    This ensures that your code works with the already added code from other developers.
 ```
 
 4.b. How many branches are in the repository?
      Click the link to look at the branches. Do you see yours? Do you see any others? 
 
 ```
-    Replace this text with your answer
+   18
 ```
 
 
 4.c. Compare your branch and the master branch by clicking on each. Are they different?
 
 ```
-    Replace this text with your answer
+    Yes
 ```
 
 
@@ -133,7 +133,7 @@ with your answer to the question above.
      there? Did it change?
 
 ```
-    Replace this text with your answer
+    It changes, but it lets me deicide what changes to add.
 ```
 
 
@@ -141,7 +141,7 @@ with your answer to the question above.
      here, describe how branching is useful:
 
 ```
-    Replace this text with your answer
+    It allows me to see updates on the master code and see if they work with my code.
 ```
 
 ---
@@ -153,5 +153,8 @@ with your answer to the question above.
   will do our best to answer them. Paste the link to your question in Slack here:
 
 ```
-    Replace this text with your answer
+    Is there a better way to edit previously merged/pulled files after getting comments?
 ```
+
+
+
